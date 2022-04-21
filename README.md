@@ -1,6 +1,6 @@
 # Hey, I'm Miguel, but everyone calls me Mike.
 
-## I have a law degree, however most of my work has been in the fast-paced, team oriented, always moving film and advertising industry.
+I have a law degree, however most of my work has been in the fast-paced, team oriented, always moving film and advertising industry.
 
 I decided to take up an old hobby of mine, and get a glimpse of the software development world. 
 I'm currently learning the ropes in Java Software Development, and OOP in general.
